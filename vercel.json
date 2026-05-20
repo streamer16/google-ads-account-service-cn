@@ -7,7 +7,17 @@
       "statusCode": 308
     },
     {
+      "source": "/telegram/",
+      "destination": "https://t.me/gogoaccs",
+      "statusCode": 308
+    },
+    {
       "source": "/accounts",
+      "destination": "https://docs.google.com/spreadsheets/d/177MmXyCausi4lYqn15Q5TYr_QY5vI5Df1kP_mjFLVaQ/edit?gid=0#gid=0",
+      "statusCode": 308
+    },
+    {
+      "source": "/accounts/",
       "destination": "https://docs.google.com/spreadsheets/d/177MmXyCausi4lYqn15Q5TYr_QY5vI5Df1kP_mjFLVaQ/edit?gid=0#gid=0",
       "statusCode": 308
     }
